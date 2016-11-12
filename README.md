@@ -1,11 +1,10 @@
 # angular-wave-player
 
-About
------------------------------------------------------------------------------------------
-
 The HTML player developed on Angular + SoundManager2 + Waveform.
 
 ![Example work](https://raw.githubusercontent.com/Archakov06/angular-wave-player/master/angular-wave-player.gif)
+
+## [Live Demo](https://archakov.im/uploads/iframes/angular-wave-player/index.html)
 
 ## Clone it
 
