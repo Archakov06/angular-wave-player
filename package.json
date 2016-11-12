@@ -14,6 +14,14 @@
     "pugjs",
     "stylus"
   ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-pug": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "del": "^2.2.2"
+  },
   "author": "Archakov Dennis",
   "license": "MIT"
 }
