@@ -1,0 +1,19 @@
+{
+  "name": "angular-wave-player",
+  "version": "1.0.0",
+  "description": "The HTML player developed on Angular + SoundManager2 + Waveform",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "angular-wave-player"
+  },
+  "keywords": [
+    "angular",
+    "waveform",
+    "soundmanager2",
+    "pugjs",
+    "stylus"
+  ],
+  "author": "Archakov Dennis",
+  "license": "MIT"
+}
